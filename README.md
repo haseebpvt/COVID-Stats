@@ -1,2 +1,2 @@
-# COVID-Stats
-Kotlin MVVM App [ 🚧 Work in progress 👷‍♀️⛏👷🔧️👷🔧 🚧 ]
+# COVID-Stats [ 🚧 Work in progress 👷‍♀️⛏👷🔧️👷🔧 🚧 ]
+Kotlin MVVM App
